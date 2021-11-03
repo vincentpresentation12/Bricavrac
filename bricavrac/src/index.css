@@ -12,9 +12,14 @@ code {
     monospace;
 }
 
+#root{
+  height: 100vh;
+}
+
 img{
   display: block;
   margin: auto;
+  margin-top: 25vh;
 }
 
 form{
@@ -24,4 +29,5 @@ form{
 
 .link{
   text-align: right;
+  margin-right: 2rem;
 }
